@@ -1,0 +1,21 @@
+xAI Services & Architecture
+Next-Generation Artificial Intelligence for Discovery and Enterprise
+
+ABOUT XAI
+xAI is an artificial intelligence research company dedicated to building AI systems that accelerate human scientific understanding. From real-time conversational intelligence to scalable developer APIs, xAI powers next-generation applications.
+
+CORE SERVICES
+1. Grok Intelligence: A real-time conversational model with live web and social knowledge, deep reasoning, and multimodal vision capabilities.
+2. xAI Developer API: High-throughput, enterprise-ready REST APIs featuring structured outputs, function calling, and seamless model fine-tuning.
+3. PromptIDE & Compute: Advanced developer toolsets paired with the Colossus supercomputer cluster for high-performance AI inference and training.
+
+KEY SPECIFICATIONS
+- 100K+ GPU Colossus Supercomputer Infrastructure
+- Real-Time Live Global Data Integration
+- 99.9% API Reliability & Low-Latency Responses
+
+DEVELOPER ACCESS & RESOURCES
+Start building with xAI API models today. Explore documentation, manage API keys, and deploy enterprise AI solutions.
+API Console: console.x.ai
+Documentation: docs.x.ai
+Support: enterprise@x.ai
